@@ -1,5 +1,6 @@
 #Break statement: with this, we can stop the loop even if the while conditition is true
 
+
 x = 1
 while x < 10:
   print(x)

@@ -1,5 +1,6 @@
 import hashlib
 
+
 pass_found = 0
 
 i_hash = input("Enter the hash password: ")    #Use the MD5 Hash generator site

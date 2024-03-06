@@ -1,4 +1,5 @@
 school = "Power Learn Project"
+
 print(len(school))    #count number of items
 
 print(school.upper())         #upper is a method as it belongs to the string

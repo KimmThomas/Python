@@ -6,5 +6,6 @@ def checkVowel (n):
     case "o" : return "this is a vowel"
     case "u" : return "this is a vowel"
     case  _ : return "simple alphabet"
+    
 print(checkVowel("k"))
 print(checkVowel("a"))

@@ -2,6 +2,7 @@
 
 person_info = {}
 
+
 person_info["name"] = input("Please enter your name: ")
 person_info["age"] = input("Please enter your age: ")
 person_info["favourite_color"] = input("Please enter your favourite color: ")

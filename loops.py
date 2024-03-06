@@ -1,5 +1,4 @@
 #while loop - used to iterate over a block of code as long as the test expression is true
-
 #Example 1
 
 x = 1    #int

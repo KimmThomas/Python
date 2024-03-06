@@ -3,6 +3,7 @@
 numbers = []
 
 #Get user input
+
 while True:
   number = input("Enter a number (or 'done' to finish): ")
   if number.lower() == "done":

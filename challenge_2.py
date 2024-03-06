@@ -3,6 +3,5 @@
 favorite_books = ("Kifo Kisimani", "Mayai Waziri", "Merchant of Venice")
 
 #use for loop
-
 for book in favorite_books:
   print(book)

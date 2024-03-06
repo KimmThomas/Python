@@ -7,7 +7,6 @@ if is_hot:
 elif is_cold:
   print("Its an awesome day")
 
-
 else:
   print("Its a lovely day")
 

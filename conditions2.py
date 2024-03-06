@@ -7,7 +7,6 @@ if has_good_credit and has_high_income:
 elif has_high_income or has_good_credit:
   print("Pay Deposit")
 
-
 else:
   print("Loan Declined")
 

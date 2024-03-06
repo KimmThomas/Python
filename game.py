@@ -1,4 +1,6 @@
+
 secret_number = 9
+
 
 guess_count = 0
 guess_limit = 3
